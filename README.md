@@ -1,3 +1,4 @@
+copy the full code and put on VSC click Open whit live servert to whach my website
 # GTA-VI-epic-countdown
 <!DOCTYPE html>
 <html lang="en">
